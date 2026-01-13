@@ -9,6 +9,7 @@ import java.net.Socket;
 /**
  * A simple HTTP Server from scratch using Java Sockets.
  * Use this to understand the low-level details of HTTP TCP connections.
+ * 
  */
 public class JavaServer {
 
